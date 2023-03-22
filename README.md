@@ -34,6 +34,6 @@
     website: https://erc20-indexer-nu.vercel.app/
 
 
-  - **Block explorer*: a mimic of ethscan
+  - **Block explorer**: a mimic of ethscan
     
     git: https://github.com/Yorkzhong1/blockexplorer
