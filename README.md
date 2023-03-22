@@ -28,7 +28,7 @@
     git:https://github.com/Yorkzhong1/nft-indexer
     website:https://nft-indexer.vercel.app/
 
-  -** ERC20 indexer**: list all your ERC20 tokens
+  - **ERC20 indexer**: list all your ERC20 tokens
     technology: js
     git： https://github.com/Yorkzhong1/erc20-indexer
     website: https://erc20-indexer-nu.vercel.app/
